@@ -30,7 +30,7 @@ drive.mount('/content/drive')
 
 6. Clone this repo using the following expression. 
 ```
-git clone https://github.com/a42labs/Car-GAN-Demo
+git clone https://github.com/a42labs/Car-GAN-Demo.git
 ```
 7. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ImageAI Library
 ```
