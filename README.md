@@ -7,14 +7,13 @@ This repo provides the Python code used for preparing the data to be trained by 
 This implementation generates car images at 256p resolution due to time, compute, and data quality constraints. 
 
 ## Built with
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/)v3.6
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) v2.1.6
-- NumPy
-- OpenCV
+- NumPy v1.13.3
+- PIL v7
+- cv2 v4.5.1.48
 - Tensorflow v1.15.2
-- Keras
 - Google Colab Pro leveraging an NVIDIA v100 GPU
-
 
 ## Getting started
 
