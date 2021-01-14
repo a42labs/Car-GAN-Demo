@@ -1,18 +1,18 @@
 # Generate Synthetic Car Images using PGGAN Model
 
-Guide to training a Progressively Growing GAN model on the Car Connection Picture Dataset that can be found [here](https://www.kaggle.com/prondeau/the-car-connection-picture-dataset) on Kaggle.  
+Guide to training a Progressively Growing GAN model on the Car Connection Picture Dataset from Kaggle.  
 
 This repo provides the Python code used for preparing the data to be trained by the official PGGAN implementation. 
 
 This implementation generates car images at 256p resolution due to time, compute, and data quality constraints. 
 
 ## Built with
-- [Python](https://www.python.org/)v3.6
+- [Python](https://www.python.org/) v3.6
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) v2.1.6
-- NumPy v1.13.3
-- PIL v7
-- cv2 v4.5.1.48
-- Tensorflow v1.15.2
+- [NumPy](https://numpy.org/) v1.13.3
+- [PIL](http://www.pilofficial.com/) v7
+- [cv2](https://pypi.org/project/opencv-python/) v4.5.1.48
+- [Tensorflow](https://www.tensorflow.org/install/pip) v1.15.2
 - Google Colab Pro leveraging an NVIDIA v100 GPU
 
 ## Getting started
@@ -30,7 +30,7 @@ drive.mount('/content/drive')
 
 6. Clone this repo using the following expression. 
 ```
-git clone https://thisrepo 
+git clone https://github.com/a42labs/Car-GAN-Demo
 ```
 7. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ImageAI Library
 ```
