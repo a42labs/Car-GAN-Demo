@@ -18,10 +18,10 @@ This implementation can be used to generate car images at 256p resolution due to
 ## Getting started
 
 ### Data Preparation
-1. Download dataset from Kaggle [here](https://www.kaggle.com/prondeau/the-car-connection-picture-dataset)
-2. Upload the compressed dataset to Google Drive 
-3. Create new Google Colab notebook
-4. Mount Google Drive using the following Python expression
+1. Download dataset from Kaggle [here].(https://www.kaggle.com/prondeau/the-car-connection-picture-dataset)
+2. Upload the compressed dataset to Google Drive.
+3. Create new Google Colab notebook.
+4. Mount Google Drive using the following Python expression.
 ```
 from google.colab import drive
 drive.mount('/content/drive')
@@ -32,7 +32,7 @@ drive.mount('/content/drive')
 ```
 git clone https://github.com/a42labs/Car-GAN-Demo.git
 ```
-7. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ImageAI Library
+7. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ImageAI Library.
 ```
 pip install imageai
 ```
@@ -65,7 +65,7 @@ detector.setModelPath('/Users/PGGAN/resnet50_coco_best_v2.1.0.h5')
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To run the file simply call the `load_cars` function, passing in `inputdir` and `outputdir`.
 
-### Model Training
+### Model training
 1. We will now clone the official progressive growing of GANs repo. 
 ```
 git clone https://github.com/tkarras/progressive_growing_of_gans.git 
