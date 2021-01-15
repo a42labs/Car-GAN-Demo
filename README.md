@@ -89,7 +89,8 @@ result_dir = 'results'
 5. Run `train.py` to begin training. 
 
 ## Usage
-<img src=”https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif" align=”center” >
+<div style="text-align:center"><img src="https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif" /></div>
 <div></div>
+
 Here are results after roughly 10 hours of training. Paremeters such as pixel resolution, hardware used, and quality of data play the biggest role in the results. 
 
