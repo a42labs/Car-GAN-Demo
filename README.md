@@ -87,5 +87,5 @@ result_dir = 'results'
 5. Run `train.py` to begin training. 
 
 ## Usage
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
