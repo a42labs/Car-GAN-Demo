@@ -1,12 +1,12 @@
 # Generate Synthetic Car Images using PGGAN Model
 
+![Preview](https://github.com/a42labs/Car-GAN-Demo/blob/main/Images/Car%20GAN%20Preview.png)
+
 Guide to training a Progressively Growing GAN model on the Car Connection Picture Dataset from Kaggle.  
 
 This repo provides the Python code used for preparing the data to be trained by the official PGGAN implementation. 
 
 This implementation can be used to generate car images at various resolutions, however it is important to keep time, compute, and data quality constraints in mind. 
-
-
 
 ## Built with
 - [Python](https://www.python.org/) v3.6
@@ -90,6 +90,5 @@ result_dir = 'results'
 
 ## Usage
 <img align = center src="https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif" />
-![Alt Text](https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif)
 Here are results after roughly 10 hours of training. Paremeters such as pixel resolution, hardware used, and quality of data play the biggest role in the results. 
 
