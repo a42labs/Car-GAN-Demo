@@ -4,7 +4,9 @@ Guide to training a Progressively Growing GAN model on the Car Connection Pictur
 
 This repo provides the Python code used for preparing the data to be trained by the official PGGAN implementation. 
 
-This implementation can be used to generate car images at 256p resolution due to time, compute, and data quality constraints. 
+This implementation can be used to generate car images at various resolutions, however it is important to keep time, compute, and data quality constraints in mind. 
+
+
 
 ## Built with
 - [Python](https://www.python.org/) v3.6
