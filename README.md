@@ -1,6 +1,6 @@
 # Generate Synthetic Car Images using PGGAN Model
 
-![Preview]("https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif")
+<div style="text-align:center"><img src="https://media.giphy.com/media/4ZGiWLSh0fguJWcudW/giphy.gif" /></div>
 
 Guide to training a Progressively Growing GAN model on the Car Connection Picture Dataset from Kaggle.  
 
